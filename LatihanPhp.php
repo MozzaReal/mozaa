@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <?php
+    
+      $nim ="19230819";
+      $nama ="Moja";
+      $kelas ="19.2A.12";
+
+       echo"Nim saya = $nim<br>";
+       echo"Nama saya = $nama<br>";
+       echo"Kelas saya = $kelas<br>";
+
+    ?>
+    <!-- <?php
+        echo"<h1> tes </h1>"
+    ?> -->
+</body>
+</html>
